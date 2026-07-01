@@ -9,7 +9,7 @@ and photographs.
 In Claude Code:
 
 ```
-/plugin marketplace add <your-github-username>/documentary-builder-plugin
+/plugin marketplace add dshrestha977/documentary-builder-plugin
 /plugin install documentary-builder@habile-media
 ```
 
