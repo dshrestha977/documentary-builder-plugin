@@ -13,6 +13,8 @@ def _paths():
 PATHS = _paths()
 FF = PATHS["ffmpeg"]; FP = PATHS["ffprobe"]
 FONT = "tools/font.ttf"; FONTB = "tools/fontb.ttf"   # relative to CWD (drawtext runs with cwd=CWD)
+# symbol-capable font for glyphs Arial lacks (e.g. checkmark); falls back to FONT
+SYMBOL = "tools/symbol.ttf" if os.path.isfile(os.path.join(TOOLS, "symbol.ttf")) else FONT
 
 def load_cfg():
     if len(sys.argv) < 2:

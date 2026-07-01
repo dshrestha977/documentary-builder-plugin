@@ -11,8 +11,8 @@
     {
       "name": "documentary-builder",
       "source": "./plugins/documentary-builder",
-      "description": "Build a narrated documentary from your OWN field footage + photos — fully local and free (Kokoro voice, Ken Burns photo montages, chapter cards, burned captions). No paid APIs or cloud credits.",
-      "version": "1.0.0"
+      "description": "Build a narrated documentary from your OWN field footage + photos — fully local and free (Kokoro voice, Ken Burns photo montages, chapter cards, burned captions, animated data/infographics segments). No paid APIs or cloud credits.",
+      "version": "1.1.0"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "width": 1280, "height": 720, "fps": 30,
+  "voice": "am_michael", "speed": 0.95,
+  "output": "Myagdi_Data_Segment.mp4",
+  "phonetics": {
+    "Myagdi": "Myahgdee", "Naribang": "Nareebahng", "Hile Danda": "Heelay Dahndah",
+    "Ratamata": "Rahtahmahtah", "kharkas": "kar kahs"
+  },
+  "data_segment": {
+    "cards": [
+      { "type": "section", "title": "By the Numbers",
+        "subtitle": "Myagdi Livestock Water Study",
+        "narration": "The Myagdi livestock water study, in numbers." },
+
+      { "type": "stats", "title": "The herds of Ward Five",
+        "pairs": [["222","yak"], ["1,350","sheep & goat"], ["13","operator families"]],
+        "narration": "The kharkas support two hundred and twenty-two yak, and one thousand three hundred and fifty sheep and goats, across thirteen operator families." },
+
+      { "type": "compare", "title": "Design water demand  (litres per day)",
+        "items": [
+          { "label": "Scheme A   Hile Danda & Ratamata", "value": "54,330", "frac": 1.0 },
+          { "label": "Scheme B   Naribang", "value": "12,990", "frac": 0.239 }
+        ],
+        "narration": "Scheme A must deliver fifty-four thousand three hundred and thirty litres per day. Scheme B, twelve thousand nine hundred and ninety." },
+
+      { "type": "number", "big": "NRs 5.77M",
+        "sub": "Combined cost     Government 90%     Community 10%",
+        "narration": "The combined cost is five point seven seven million rupees. The Provincial Government contributes ninety percent; the community, ten." },
+
+      { "type": "checklist", "title": "Water quality  -  within NDWQS 2079",
+        "items": ["pH   6.7 - 6.8", "Turbidity   < 0.1 NTU", "Dissolved solids   24 - 37 mg/L", "E. coli   0   CFU / 100 mL"],
+        "narration": "Every water quality parameter falls within national standards. In both springs, the E. coli count is zero." },
+
+      { "type": "section", "title": "The water is there.",
+        "subtitle": "The demand is clear.  The community is ready.",
+        "narration": "The water is there. The demand is clear. The community is ready." }
+    ]
+  }
+}

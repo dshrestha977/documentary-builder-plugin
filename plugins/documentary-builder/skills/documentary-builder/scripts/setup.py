@@ -47,7 +47,11 @@ fb = findfont(["arialbd.ttf","Arial Bold.ttf","DejaVuSans-Bold.ttf"])
 if fr: shutil.copy(fr, os.path.join(TOOLS, "font.ttf"))
 if fb: shutil.copy(fb, os.path.join(TOOLS, "fontb.ttf"))
 elif fr: shutil.copy(fr, os.path.join(TOOLS, "fontb.ttf"))
-print("fonts:", fr, fb)
+# symbol-capable font (checkmark ✓ etc.) — Arial lacks these glyphs
+sym = findfont(["seguisym.ttf","Segoe UI Symbol.ttf","DejaVuSans.ttf",
+                "NotoSansSymbols2-Regular.ttf","Arial Unicode.ttf","AppleSymbols.ttf"])
+if sym: shutil.copy(sym, os.path.join(TOOLS, "symbol.ttf"))
+print("fonts:", fr, fb, "| symbol:", sym)
 
 json.dump({"ffmpeg":ff,"ffprobe":fp,"kokoro_model":km,"kokoro_voices":kv,
            "font":os.path.join(TOOLS,"font.ttf"),"fontb":os.path.join(TOOLS,"fontb.ttf")},

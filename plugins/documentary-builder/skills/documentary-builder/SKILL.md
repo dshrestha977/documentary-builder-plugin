@@ -128,12 +128,33 @@ Do NOT declare done until frames + all three audio checks pass.
 - **Portrait clips**: blurred-fill background (no black bars) — handled in `build.py norm`.
 - Re-encode all pieces to identical codec params so the final concat is a fast stream-copy.
 
-## 8. Infographics layer (optional — the OpenMontage strength, done locally)
-`scripts/datacard.py` renders a lightweight **animated data card** (big-number reveal or a
-bar) to an MP4 piece you can drop into the timeline — e.g. "54,330 L/day", the two schemes,
-or the water-quality pass. It uses ffmpeg only (no Node). For richer motion-graphics
-(animated maps, charts, transitions) install **OpenMontage** and use its Remotion pipeline
-to render segments, then concat them with this skill's `build.py`.
+## 8. Infographics — animated data segment (the OpenMontage strength, done locally & free)
+`scripts/datasegment.py` builds a **narrated animated data segment** (ffmpeg only, no Node)
+from a config with a `data_segment.cards` list. Each card is narrated with Kokoro, animated,
+and captioned; the cards concat into a standalone explainer MP4.
+
+```
+python scripts/datasegment.py config/datasegment.example.json     # -> Myagdi_Data_Segment.mp4
+```
+
+Card types (`scripts/datacards.py`):
+| type | fields | use |
+| --- | --- | --- |
+| `section`  | `title`, `subtitle?` | chapter/opener |
+| `stats`    | `title`, `pairs: [[value,label],...]` | key figures grid (e.g. 222 yak / 1,350 sheep) |
+| `compare`  | `title`, `items: [{label,value,frac}]` | animated bars (e.g. Scheme A 54,330 vs B 12,990 L/day) |
+| `number`   | `big`, `sub?` | one hero figure (e.g. NRs 5.77M) |
+| `checklist`| `title`, `items: [text,...]` | green-tick pass list (e.g. water quality within NDWQS) |
+
+Each card takes an optional `narration` (drives its duration) and `pad`. Percent signs and
+other literals are safe (`expansion=none`). The checkmark needs a symbol font — `setup.py`
+locates one (Segoe UI Symbol / DejaVu); `dvlib.SYMBOL` falls back to the body font if absent.
+`scripts/datacard.py` still exists for a single one-off card.
+
+Use it two ways: (a) a standalone data explainer for a presentation, or (b) render it and add
+it to a main film by listing it as an extra piece in `build.py`'s concat. For richer
+motion-graphics (animated maps, transitions) install **OpenMontage** (Remotion) and concat
+its rendered segments here.
 
 ## 9. Outputs
 `OUTPUT.mp4` (from manifest `output` or default), `captions.srt`, and intermediate

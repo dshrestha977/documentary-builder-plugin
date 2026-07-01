@@ -35,7 +35,7 @@ def normalize():
 # ---------- cards ----------
 def _dt(fontfile, txt_rel, size, color, y, fade=None):
     a = f":alpha='{fade}'" if fade else ""
-    return (f"drawtext=fontfile='{fontfile}':textfile='{txt_rel}':fontcolor={color}:fontsize={size}:"
+    return (f"drawtext=fontfile='{fontfile}':textfile='{txt_rel}':expansion=none:fontcolor={color}:fontsize={size}:"
             f"x=(w-text_w)/2:y={y}{a}")
 
 def _card(out, d, bg, draws, dim=0.35, blur=8):
