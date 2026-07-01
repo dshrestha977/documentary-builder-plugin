@@ -1,0 +1,11 @@
+{
+  "name": "documentary-builder",
+  "version": "1.0.0",
+  "description": "Build a narrated documentary locally and for free from your own field footage + photographs: natural Kokoro voice with phonetic respelling for non-English names, Ken Burns photo montages, title/chapter cards, burned captions, and a ducked ambience bed. No paid APIs, no cloud render credits.",
+  "author": {
+    "name": "Deependra Shrestha",
+    "email": "engghabile@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["video","documentary","tts","kokoro","ffmpeg","ken-burns","captions","offline","free","field-footage"]
+}

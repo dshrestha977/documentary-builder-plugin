@@ -1,0 +1,18 @@
+{
+  "name": "habile-media",
+  "owner": {
+    "name": "Deependra Shrestha",
+    "email": "engghabile@gmail.com"
+  },
+  "metadata": {
+    "description": "Local, free media-production plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "documentary-builder",
+      "source": "./plugins/documentary-builder",
+      "description": "Build a narrated documentary from your OWN field footage + photos — fully local and free (Kokoro voice, Ken Burns photo montages, chapter cards, burned captions). No paid APIs or cloud credits.",
+      "version": "1.0.0"
+    }
+  ]
+}

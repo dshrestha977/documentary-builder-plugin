@@ -1,0 +1,31 @@
+# Runtime tool downloads (fetched by setup.py) — do not commit (large, GPL ffmpeg binary, model)
+tools/
+**/tools/
+*.onnx
+*.bin
+
+# Working-dir build artifacts
+norm/
+pieces/
+wavs/
+wavs2/
+contact/
+frames/
+frames4/
+*.mp4
+*.wav
+*.srt
+footage.json
+timing.json
+segments.json
+photo_index.json
+concat.txt
+amb*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

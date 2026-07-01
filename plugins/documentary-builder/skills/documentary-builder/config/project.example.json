@@ -1,0 +1,379 @@
+{
+ "title": "Water for the High Herds",
+ "subtitle": "Water Management for Livestock in the High Hills and Mountains",
+ "location_line": "Annapurna Rural Municipality  |  Myagdi District  |  Gandaki Province",
+ "outro": [
+  "Identification and Preliminary Study of Water Management",
+  "for Livestock in High Hills and Mountains",
+  "Habile Engineering Consultancy Pvt. Ltd.",
+  "Ministry of Energy, Water Resources and Water Supply, Gandaki Province  |  2083 BS"
+ ],
+ "width": 1280,
+ "height": 720,
+ "fps": 30,
+ "voice": "am_michael",
+ "speed": 0.95,
+ "output": "Documentary_Myagdi.mp4",
+ "media_dir": "C:\\Users\\DeependraShrestha\\OneDrive - MSFT\\All Project\\082-83 FY\\Gandaki Province\\Myagdi_Water_Mgmt_Report\\05_Figures_and_Photos",
+ "ambient_clips": [
+  "02",
+  "03",
+  "05",
+  "07",
+  "08",
+  "04"
+ ],
+ "title_bg": "terrain_01",
+ "outro_bg": "terrain_02",
+ "chapter_bg": "terrain_01",
+ "clips": {
+  "01_overview": "Annapurna RM -05_ Pauddar and Kindu.mp4",
+  "02": "WhatsApp Video 2026-06-22 at 06.35.54.mp4",
+  "03": "WhatsApp Video 2026-06-22 at 06.35.24.mp4",
+  "04": "WhatsApp Video 2026-06-22 at 10.03.28.mp4",
+  "05": "WhatsApp Video 2026-06-22 at 10.04.25.mp4",
+  "06": "WhatsApp Video 2026-06-22 at 10.03.33.mp4",
+  "07": "WhatsApp Video 2026-06-22 at 10.03.43.mp4",
+  "08": "WhatsApp Video 2026-06-22 at 06.35.44.mp4",
+  "09": "WhatsApp Video 2026-06-22 at 10.04.23.mp4",
+  "10": "WhatsApp Video 2026-06-22 at 10.03.34.mp4",
+  "11": "WhatsApp Video 2026-06-22 at 10.03.45.mp4",
+  "12": "WhatsApp Video 2026-06-22 at 10.03.38.mp4",
+  "13": "WhatsApp Video 2026-06-22 at 10.03.36.mp4",
+  "14": "WhatsApp Video 2026-06-22 at 10.03.29.mp4",
+  "15": "Field_Photos/New folder/WhatsApp Video 2026-06-26 at 8.36.07 AM.mp4",
+  "16": "WhatsApp Video 2026-06-22 at 06.36.03.mp4"
+ },
+ "clip_pool": [
+  "01_overview",
+  "02",
+  "04",
+  "03",
+  "08",
+  "07",
+  "05",
+  "14",
+  "11",
+  "16",
+  "06",
+  "09",
+  "10",
+  "12",
+  "13",
+  "15"
+ ],
+ "photos": {
+  "93": "WhatsApp Image 2026-06-22 at 06.36.07.jpeg",
+  "120": "WhatsApp Image 2026-06-22 at 10.03.50.jpeg",
+  "104": "WhatsApp Image 2026-06-22 at 10.03.34.jpeg",
+  "94": "WhatsApp Image 2026-06-22 at 06.36.08.jpeg",
+  "109": "WhatsApp Image 2026-06-22 at 10.03.39.jpeg",
+  "7": "Field_Photos/Identification and preliminary study of water management for livestock in High Hils and Mountain_20260613_085727979.jpg",
+  "144": "WhatsApp Image 2026-06-22 at 10.04.29.jpeg",
+  "39": "Field_Photos/jhagaji khola_20260613_140651035.jpg",
+  "32": "Field_Photos/New folder/WhatsApp Image 2026-06-26 at 8.36.27 AM.jpeg",
+  "37": "Field_Photos/jhagaji khola_20260613_134023608.jpg",
+  "121": "WhatsApp Image 2026-06-22 at 10.03.51.jpeg",
+  "126": "WhatsApp Image 2026-06-22 at 10.03.56.jpeg",
+  "62": "WhatsApp Image 2026-06-22 at 06.35.29.jpeg",
+  "38": "Field_Photos/jhagaji khola_20260613_134854569.jpg",
+  "98": "WhatsApp Image 2026-06-22 at 10.02.41.jpeg",
+  "99": "WhatsApp Image 2026-06-22 at 10.02.42.jpeg",
+  "85": "WhatsApp Image 2026-06-22 at 06.35.59.jpeg",
+  "107": "WhatsApp Image 2026-06-22 at 10.03.37.jpeg",
+  "90": "WhatsApp Image 2026-06-22 at 06.36.04.jpeg",
+  "91": "WhatsApp Image 2026-06-22 at 06.36.05.jpeg",
+  "45": "WhatsApp Image 2026-06-22 at 06.33.04.jpeg",
+  "46": "WhatsApp Image 2026-06-22 at 06.33.06.jpeg",
+  "48": "WhatsApp Image 2026-06-22 at 06.33.21.jpeg",
+  "111": "WhatsApp Image 2026-06-22 at 10.03.41.jpeg",
+  "115": "WhatsApp Image 2026-06-22 at 10.03.45.jpeg",
+  "spring_01": "Field_Photos/jhagaji khola_20260613_130723238.jpg",
+  "spring_02": "Field_Photos/jhagaji khola_20260613_134023608.jpg",
+  "spring_03": "Field_Photos/jhagaji khola_20260613_134854569.jpg",
+  "spring_04": "Field_Photos/jhagaji khola_20260613_140651035.jpg",
+  "15": "Field_Photos/New folder/WhatsApp Image 2026-06-26 at 8.36.10 AM.jpeg",
+  "56": "WhatsApp Image 2026-06-22 at 06.33.31.jpeg",
+  "57": "WhatsApp Image 2026-06-22 at 06.33.32.jpeg",
+  "8": "Field_Photos/Identification and preliminary study of water management for livestock in High Hils and Mountain_20260613_130400951.jpg",
+  "134": "WhatsApp Image 2026-06-22 at 10.04.04.jpeg",
+  "105": "WhatsApp Image 2026-06-22 at 10.03.35.jpeg",
+  "136": "WhatsApp Image 2026-06-22 at 10.04.07.jpeg",
+  "135": "WhatsApp Image 2026-06-22 at 10.04.06.jpeg",
+  "102": "WhatsApp Image 2026-06-22 at 10.03.31.jpeg",
+  "20": "Field_Photos/New folder/WhatsApp Image 2026-06-26 at 8.36.15 AM.jpeg",
+  "147": "WhatsApp Image 2026-06-22 at 10.04.33.jpeg",
+  "138": "WhatsApp Image 2026-06-22 at 10.04.09.jpeg",
+  "141": "WhatsApp Image 2026-06-22 at 10.04.26.jpeg",
+  "142": "WhatsApp Image 2026-06-22 at 10.04.27.jpeg",
+  "149": "WhatsApp Image 2026-06-22 at 10.04.35.jpeg",
+  "150": "WhatsApp Image 2026-06-22 at 10.04.36.jpeg",
+  "0": "Field_Photos/Identification and preliminary study of water management for livestock in High Hils and Mountain_20260612_100324422.jpg",
+  "60": "WhatsApp Image 2026-06-22 at 06.33.35.jpeg",
+  "54": "WhatsApp Image 2026-06-22 at 06.33.29.jpeg",
+  "22": "Field_Photos/New folder/WhatsApp Image 2026-06-26 at 8.36.17 AM.jpeg",
+  "155": "WhatsApp Image 2026-06-26 at 8.37.35 AM.jpeg",
+  "153": "WhatsApp Image 2026-06-25 at 18.00.32.jpeg",
+  "119": "WhatsApp Image 2026-06-22 at 10.03.49.jpeg",
+  "terrain_01": "Field_Photos/Identification and preliminary study of water management for livestock in High Hils and Mountain_20260612_100324422.jpg",
+  "terrain_02": "Field_Photos/Identification and preliminary study of water management for livestock in High Hils and Mountain_20260612_101349889.jpg"
+ },
+ "phonetics": {
+  "Dhan Kharka Mathi Kuna Mul": "Dhahn Kharkah Mahtee Koonah Mool",
+  "Jhangaji Khola": "Jhangahjee Kohlah",
+  "Khopra Danda": "Khoprah Dahndah",
+  "Hile Danda": "Heelay Dahndah",
+  "Mahabir Pun": "Mahabeer Poon",
+  "Annapurna": "Annapoornah",
+  "Naribang": "Nareebahng",
+  "Ratamata": "Rahtahmahtah",
+  "Demorlote": "Daymor lohtay",
+  "Dhakutri": "Dhah kootree",
+  "Jhangaji": "Jhangahjee",
+  "Pholira": "Foh leerah",
+  "Pauddar": "Powdar",
+  "Ekpate": "Ek pahtay",
+  "Myagdi": "Myahgdee",
+  "Gandaki": "Gundahkee",
+  "Khopra": "Khoprah",
+  "Chauri": "Chowree",
+  "Kindu": "Kindoo",
+  "Khola": "Kohlah",
+  "Srot": "Srote",
+  "Nabi": "Nahbee",
+  "kharkas": "kar kahs",
+  "kharka": "kar kah",
+  "Kharka": "Kar kah",
+  "Donths": "Dohnths",
+  "Donth": "Dohnth"
+ },
+ "segments": [
+  {
+   "id": "opening",
+   "chapter": null,
+   "feature": [
+    "93"
+   ],
+   "interlude": [
+    "120",
+    "104",
+    "94",
+    "109"
+   ],
+   "interlude_dur": 18,
+   "sentences": [
+    "In the high pastures of Myagdi District, in the shadow of the Annapurna massif, thousands of sheep, goats, and yak migrate each season along routes their herders have followed for generations.",
+    "Here, above two thousand five hundred metres, the seasons are governed by snow, grass, and water.",
+    "For the herders of Annapurna Rural Municipality, Ward Five, access to clean water is not a convenience. It is survival.",
+    "This is a preliminary study of water management for livestock in the high hills and mountains, commissioned by the Ministry of Energy, Water Resources and Water Supply of Gandaki Province."
+   ]
+  },
+  {
+   "id": "s1",
+   "chapter": [
+    "I",
+    "The Landscape"
+   ],
+   "feature": [
+    "7",
+    "144"
+   ],
+   "interlude": [
+    "39",
+    "32",
+    "37",
+    "121",
+    "126"
+   ],
+   "interlude_dur": 22,
+   "sentences": [
+    "The study area lies in Ward Five of Annapurna Rural Municipality, around the settlements of Kindu, Pauddar, and Nabi.",
+    "It focuses on three pasture stations, or kharkas, known as Naribang, Hile Danda, and Ratamata.",
+    "These kharkas sit between two thousand seven hundred and three thousand nine hundred metres in elevation.",
+    "Two pasture circuits shape the herding year.",
+    "The Pauddar circuit ascends through Ekpate, Dhakutri, and Hile Danda.",
+    "The Kindu circuit moves through Demorlote, Ratamata, and Pholira.",
+    "Together, they support more than thirteen hundred small ruminants, and two hundred and twenty-two yak.",
+    "This is the majority of Myagdi District's entire chauri and yak population.",
+    "The study combined field survey, community consultation, flow gauging, water-quality testing, and satellite-based mapping of the sources, routes, and settlements."
+   ]
+  },
+  {
+   "id": "s2",
+   "chapter": [
+    "II",
+    "The Challenge"
+   ],
+   "feature": [
+    "62"
+   ],
+   "interlude": [
+    "38",
+    "98",
+    "99",
+    "85",
+    "107"
+   ],
+   "interlude_dur": 22,
+   "sentences": [
+    "Life in these mountains is shaped by the movement of water, and that movement is changing.",
+    "Each year, the snowline retreats earlier, and rainfall patterns shift.",
+    "The springs and streams that herders once depended on diminish, or dry entirely, during the lean season.",
+    "Along some stretches of the migration route, animals must walk four to six hours without water.",
+    "This strain reduces milk production, lowers birth rates, and increases the risk of disease.",
+    "The traditional watering points, locally known as Donths, are simple stone-lined basins, open and unprotected.",
+    "Livestock can step directly into the water, fouling and contaminating the only source available.",
+    "Yet the need is constant. Cold-altitude animals require between twenty and forty-five litres of clean water per head, every single day, to hold their condition."
+   ]
+  },
+  {
+   "id": "s3",
+   "chapter": [
+    "III",
+    "The Communities"
+   ],
+   "feature": [
+    "90",
+    "91"
+   ],
+   "interlude": [
+    "45",
+    "46",
+    "48",
+    "111",
+    "115"
+   ],
+   "interlude_dur": 22,
+   "sentences": [
+    "The people of these kharkas have practised transhumance, the seasonal movement of herds, for generations.",
+    "This study identified thirteen active livestock operators, families whose primary livelihood is sheep, goat, and yak.",
+    "Among them is a remarkable institution: the Chauri Srot Conservation and Promotion Committee.",
+    "This cooperative operates one hundred and fifty yak at Khopra Danda, at three thousand six hundred and sixty metres.",
+    "It was founded through an initiative of Ramon Magsaysay Award laureate Mahabir Pun.",
+    "Its purpose is unusual. The cooperative funds teacher salaries at two local schools.",
+    "Income comes from three sources: gourmet cheese sold to trekking lodges, a community festival, and eco-lodges for visitors.",
+    "Roughly forty percent of the schools' operating costs are met from this single livestock enterprise.",
+    "It is a powerful demonstration that, with the right water and the right organisation, high-mountain herding can sustain far more than the herders alone."
+   ]
+  },
+  {
+   "id": "s4",
+   "chapter": [
+    "IV",
+    "The Water"
+   ],
+   "feature": [
+    "spring_01",
+    "spring_02",
+    "spring_03",
+    "spring_04"
+   ],
+   "interlude": [
+    "15",
+    "56",
+    "57",
+    "8",
+    "134",
+    "105"
+   ],
+   "interlude_dur": 24,
+   "sentences": [
+    "At the heart of this study is a simple question. Where can clean, reliable water be found, and is there enough of it?",
+    "Two principal sources were identified, each able to supply the kharkas year-round.",
+    "Source A is the perennial spring of Dhan Kharka Mathi Kuna Mul, at three thousand two hundred and forty-five metres, on the Pauddar and Kindu circuit.",
+    "Its design safe yield is enough to supply all six kharkas on that circuit, with more than twice the demand available as surplus.",
+    "Source B is Jhangaji Khola, at four thousand and ten metres, which supplies Naribang.",
+    "Water from both springs was collected and tested by an accredited national laboratory.",
+    "The results are exceptional.",
+    "Both springs are extremely soft and low in minerals, with total dissolved solids of just twenty-four to thirty-seven milligrams per litre.",
+    "The pH is near neutral, turbidity is negligible, and the E. coli count is zero.",
+    "Every measured parameter falls within Nepal's National Drinking Water Quality Standards. This is pristine, high-altitude spring water, fully suitable for livestock."
+   ],
+   "feature_dur": 6.0
+  },
+  {
+   "id": "s5",
+   "chapter": [
+    "V",
+    "The Solution"
+   ],
+   "feature": [
+    "136",
+    "135"
+   ],
+   "interlude": [
+    "102",
+    "20",
+    "147",
+    "138",
+    "141"
+   ],
+   "interlude_dur": 22,
+   "sentences": [
+    "How much water is needed, and how can it be delivered?",
+    "Design demand was calculated for each scheme, fifteen years into the future.",
+    "For Scheme A, serving Hile Danda and Ratamata, the design demand is fifty-four thousand three hundred and thirty litres per day.",
+    "For Scheme B, serving Naribang, it is twelve thousand nine hundred and ninety litres per day.",
+    "These figures are based on forty-five litres per day for each yak, and twenty litres per day for each sheep or goat.",
+    "The proposed solution is elegant in its simplicity: two gravity-fed pipeline schemes, with no pumps, no electricity, and no recurring energy cost.",
+    "Scheme A carries spring water through a three thousand seven hundred metre pipeline, descending the mountain through four break-pressure tanks.",
+    "It feeds twelve improved Donths and six tap stand posts.",
+    "Scheme B uses a shorter pipeline to feed three Donths, at the yak pasture, the sheep pasture, and the livestock shelter.",
+    "At the heart of the design is the improved Donth itself.",
+    "It formalises the traditional trough into a dressed-stone or concrete basin, with inlet control, a silt trap, and a sanitary cover.",
+    "Animals can drink freely, but can no longer enter or contaminate the water.",
+    "The combined cost of both schemes is five point seven seven million Nepali Rupees.",
+    "The Provincial Government would contribute ninety percent; the water user associations, the remaining ten."
+   ]
+  },
+  {
+   "id": "s6",
+   "chapter": [
+    "VI",
+    "Sustainability"
+   ],
+   "feature": [
+    "142"
+   ],
+   "interlude": [
+    "149",
+    "150",
+    "141",
+    "0",
+    "60"
+   ],
+   "interlude_dur": 20,
+   "sentences": [
+    "Infrastructure alone does not guarantee success. This study examined sustainability across four dimensions.",
+    "Technically, gravity flow requires only routine maintenance, and the high-density pipe has a service life beyond fifty years.",
+    "Financially, the cooperative model already operating in these mountains shows that livestock enterprise can comfortably sustain operation and maintenance costs.",
+    "Organizationally, the study recommends that women hold at least forty percent of the seats on every water user committee.",
+    "Environmentally, the health of the rangeland, and the protection of the spring recharge zones, are identified as complementary priorities."
+   ]
+  },
+  {
+   "id": "s7",
+   "chapter": [
+    "VII",
+    "The Way Forward"
+   ],
+   "feature": [
+    "54",
+    "22"
+   ],
+   "interlude": [
+    "155",
+    "153",
+    "119"
+   ],
+   "interlude_dur": 12,
+   "sentences": [
+    "The high pastures of Myagdi are not marginal land.",
+    "They are the foundation of a pastoral economy that has sustained communities for centuries, and that today supplies cheese, meat, and wool to markets across the region.",
+    "With reliable water, a gravity pipeline, a clean source, a protected trough, the herders of Ward Five can work with certainty, rather than hope.",
+    "This study recommends the immediate implementation of both schemes, as a priority programme for the Provincial Government.",
+    "The water is there. The demand is clear. The community is ready."
+   ]
+  }
+ ]
+}
